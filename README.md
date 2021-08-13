@@ -4,7 +4,7 @@
   <tr>
     <td>Using</td>
     <td>
-      <img src="https://img.shields.io/badge/-Python-00cbf9?style=flat-square&logo=python&logoColor=ffffff" alt="Python" /> <img src="https://img.shields.io/badge/-PHP-00cbf9?style=flat-square&logo=php&logoColor=ffffff" alt="PHP" /> <img src="https://img.shields.io/badge/-C-00cbf9?style=flat-square&logo=c&logoColor=ffffff" alt="C" />
+      <img src="https://img.shields.io/badge/-Python-00cbf9?style=flat-square&logo=python&logoColor=ffffff" alt="Python" /> <img src="https://img.shields.io/badge/-JavaScript-00cbf9?style=flat-square&logo=javascript&logoColor=ffffff" alt="JavaScript" /> <img src="https://img.shields.io/badge/-PHP-00cbf9?style=flat-square&logo=php&logoColor=ffffff" alt="PHP" /> <img src="https://img.shields.io/badge/-C-00cbf9?style=flat-square&logo=c&logoColor=ffffff" alt="C" />
     </td>
   </tr>
   <tr>
